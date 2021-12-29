@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Upload the GIF file to this repository - "tip4tip.gif"
+Uploaded the GIF file to this repository - "tip4tip.gif"
 
 Recorded the screen and converted into GIF by [Ezgif](https://ezgif.com/).
 
