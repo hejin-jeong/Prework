@@ -4,7 +4,7 @@
 
 Submitted by: **Hejin Jeong**
 
-Time spent: **3** hours spent in total
+Time spent: **1** hour spent in total
 
 ## User Stories
 
@@ -38,7 +38,7 @@ I wanted to connect the slider to the segmented control that when the slider poi
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Hejin Jeong]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
